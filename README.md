@@ -8,6 +8,12 @@ Overview
 
 This project is a collection of library languages exploring, using and following the SELL approach. SELLs don't have to be built on top of C++ even though that was the language of choice for our exploration of the idea.
 
+Projects
+------------
+
+ * [Mach7](https://github.com/solodon4/Mach7) - Pattern Matching for C++
+ * [XTL](http://parasol.tamu.edu/xtl/) - eXtensible Typing Library
+
 Publications
 ------------
 
