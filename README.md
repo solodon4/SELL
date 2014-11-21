@@ -12,6 +12,7 @@ Projects
 ------------
 
  * [Mach7](https://github.com/solodon4/Mach7) - Pattern Matching for C++
+ * [Par7](https://github.com/solodon4/Par7) - Experimental playground for grammars
  * [XTL](http://parasol.tamu.edu/xtl/) - eXtensible Typing Library
 
 Publications
