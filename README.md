@@ -18,6 +18,8 @@ Projects
 Publications
 ------------
 
+[Yuriy Solodkyy](https://parasol.tamu.edu/~yuriys/), [Jaakko Jarvi](https://parasol.tamu.edu/~jarvi/). "[Extending Type Systems in a Library: Typesafe XML-processing in C++](https://parasol.tamu.edu/~yuriys/papers/XTL11.pdf)", Science of Computer Programming, 2010.
+
 [Bjarne Stroustrup](http://www.stroustrup.com/) and [Gabriel Dos Reis](http://www.axiomatics.org/~gdr/). "[Supporting SELL for High-Performance Computing](http://www.csc.lsu.edu/lcpc05/papers/lcpc05-paper-39.pdf)". [LCPC05](http://www.ece.lsu.edu/lcpc2005/). October 20-22, 2005
 
 [Bjarne Stroustrup](http://www.stroustrup.com/). "[A rationale for semantically enhanced library languages](http://www.stroustrup.com/SELLrationale.pdf)". [LCSD05](http://lcsd05.cs.tamu.edu/). October 16, 2005
